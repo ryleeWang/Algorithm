@@ -36,15 +36,15 @@ int fibonacci(int n){
 }
 ```
 
-时间复杂度： $$O(n)$$ ，空间复杂度： $$O(1)$$ 
+**推荐：**时间复杂度： $$O(n)$$ ，空间复杂度： $$O(1)$$ 
 
 ```cpp
-int fibonacci(int n){
-    if(n <= 1) return 1;
-    if(n == 2) return 2;
-    int pre1 = 1, pre2 = 2;
-    for(int i = 3; i <= n; i++){
-        int current = pre1 + pre2;
+long long fibonacci(int n){
+    if(n <= 1) return n;
+    long long pre1 = 0, pre2 = 1;
+    long long current;
+    for(int i = 2; i <= n; i++){
+        current = pre1 + pre2;
         pre1 = pre2;
         pre2 = current;
     }
