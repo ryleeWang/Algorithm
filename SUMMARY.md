@@ -2,6 +2,7 @@
 
 * [算法笔记](README.md)
 * [LeetCode](leetcode/README.md)
+  * [输入输出训练](leetcode/shu-ru-shu-chu-xun-lian.md)
   * [股票问题](leetcode/gu-piao-wen-ti.md)
 * [动态规划](dong-tai-gui-hua/README.md)
   * [斐波那契](dong-tai-gui-hua/fei-bo-na-qi.md)
