@@ -1,6 +1,7 @@
 # Table of contents
 
 * [算法笔记](README.md)
+* [C++](c++.md)
 * [LeetCode](leetcode/README.md)
   * [输入输出训练](leetcode/shu-ru-shu-chu-xun-lian.md)
   * [股票问题](leetcode/gu-piao-wen-ti.md)
