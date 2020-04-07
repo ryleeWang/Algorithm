@@ -23,4 +23,5 @@
   * [归并排序](pai-xu/gui-bing-pai-xu.md)
   * [快速排序](pai-xu/kuai-su-pai-xu.md)
 * [位运算](wei-yun-suan.md)
+* [参考资料](can-kao-zi-liao.md)
 
