@@ -12,6 +12,7 @@
 * [树（二叉树）](shu-er-cha-shu/README.md)
   * [遍历](shu-er-cha-shu/bian-li.md)
   * [二叉树特例](shu-er-cha-shu/er-cha-shu-te-li.md)
+* [哈希表](ha-xi-biao.md)
 * [查找](cha-zhao/README.md)
   * [顺序查找](cha-zhao/shun-xu-cha-zhao.md)
   * [二分查找](cha-zhao/er-fen-cha-zhao.md)
